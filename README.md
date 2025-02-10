@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I am a student at FPT University HCM.<br>🔭 I’m currently working on projects at FPT Software.<br>👯 I’m looking to collaborate on interesting web development projects.<br>🤝 I’m looking for help with advanced React concepts and best practices.<br>🌱 I’m currently learning ReactJS.<br>
+<br>🔭 I am a student at FPT University HCM.<br>🔭 I’m currently working on projects at FPT Software.<br>👯 I’m looking to collaborate on interesting web development projects.<br>🤝 I’m looking for help with advanced React concepts and best practices.<br>🌱 I’m currently learning ReactJS, React Native, FLutter, NodeJS & Express.<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/danhuyspm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/it-huy-a835b531a) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nguyendanhuy2003) 
