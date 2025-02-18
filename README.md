@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 Hi, My name is Huy. I'm a student at FPT University HCM.<br>🌱 I'm looking to collaborate on interesting web development projects.<br>🤝 I'm looking for help with advanced concepts and best practices in Node.js, and Express, ReactJS, Flutter.<br>
+<br>🔭 Hi, My name is Huy. I'm a student at FPT University HCM.<br>🌱 I have hands-on experience in coding and developing applications using Node.js & Express, React, Flutter, and React Native.<br>
 <h2>⚡️Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/it-huy-a835b531a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/danhuyspm" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
