@@ -1,8 +1,31 @@
+<div id="header" align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW53cGVkbDcwMWc3dGVjcjdjdDZvNTNxNzNnbTFlc2JqN3QxOGk4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1KoXHp1VXUqCmVUUr/giphy.gif" alt="server-craftsman" width="100"/>
+<h3>⚡️Where to find me</h3>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/it-huy-a835b531a" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.facebook.com/danhuyspm" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
+    </a>
+  </div>
+<img src="https://komarev.com/ghpvc/?username=server-craftsman&style=flat-square&color=blue" alt=""/>
+  
+  <h1>
+    Hi there, I'm Huy IT
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxoYjdzNTFvOXdwbWUzdTQ0aWlobWc5eWg2N211YXF6cXcxdGJ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
 # 💫 About Me:
-<br>🔭 Hi, My name is Huy. I'm a student at FPT University HCM.<br>🌱 I have hands-on experience in coding and developing applications using Node.js & Express, React, Flutter, and React Native.<br>
-<h2>⚡️Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/it-huy-a835b531a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/https://www.facebook.com/danhuyspm" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
+<br>🔭 Hi, My name is Dan Huy. I'm a student at FPT University HCM.<br>🌱 I have hands-on experience in coding and developing applications using Node.js & Express, React, Flutter, and React Native.<br>
+
 
 # 💻 Tech Stack:
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
