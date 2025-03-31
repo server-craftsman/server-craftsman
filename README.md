@@ -43,10 +43,10 @@
 # 🐍 Snake Game
 
 <span style="display: inline-block;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlkZXpraDc5NWJ4cXpwcGhia2hnZmtvZ3ZteXE3MWRtc2U2bnF6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6imT95ePA8MzUZPc3/giphy.gif" width="230" height="360">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8xbHUweWI5YTBxamh0MjZxanNua3I1aDh0aDFpdWFuZ3JwOWdpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Whj3s2F91f4PlcV4X0/giphy.gif" width="230" height="360">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVvMTg1ZmM0MGdxOGdrb3Zvdnl5NmpkOHowdWV2aGI3ajNxdDR4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GjN0UkPLdZHfnFAQZu/giphy.gif" width="230" height="360">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm52cDY1YXI0bHoweDYzZzJlOXJzbGE5NjhnbWNzaTIxeGhmeWJtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DsVNZRjzwakgphUAAH/giphy.gif" width="230" height="360[ ]">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlkZXpraDc5NWJ4cXpwcGhia2hnZmtvZ3ZteXE3MWRtc2U2bnF6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6imT95ePA8MzUZPc3/giphy.gif" width="150" height="260">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8xbHUweWI5YTBxamh0MjZxanNua3I1aDh0aDFpdWFuZ3JwOWdpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Whj3s2F91f4PlcV4X0/giphy.gif" width="150" height="260">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVvMTg1ZmM0MGdxOGdrb3Zvdnl5NmpkOHowdWV2aGI3ajNxdDR4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GjN0UkPLdZHfnFAQZu/giphy.gif" width="150" height="260">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm52cDY1YXI0bHoweDYzZzJlOXJzbGE5NjhnbWNzaTIxeGhmeWJtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DsVNZRjzwakgphUAAH/giphy.gif" width="`150" height="260">
 </span>
 
 <picture>
