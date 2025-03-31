@@ -40,7 +40,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=server-craftsman&show_icons=true&locale=en&layout=compact" alt="server-craftsman" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=server-craftsman" alt="server-craftsman" /></a></p>
 
-# 🐍 Snake Game
+# 💗 My Bae
 
 <span style="display: inline-block;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlkZXpraDc5NWJ4cXpwcGhia2hnZmtvZ3ZteXE3MWRtc2U2bnF6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6imT95ePA8MzUZPc3/giphy.gif" width="150" height="260">
@@ -48,6 +48,8 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVvMTg1ZmM0MGdxOGdrb3Zvdnl5NmpkOHowdWV2aGI3ajNxdDR4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GjN0UkPLdZHfnFAQZu/giphy.gif" width="150" height="260">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm52cDY1YXI0bHoweDYzZzJlOXJzbGE5NjhnbWNzaTIxeGhmeWJtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DsVNZRjzwakgphUAAH/giphy.gif" width="`150" height="260">
 </span>
+
+# 🐍 Snake Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/server-craftsman/server-craftsman/output/github-snake-dark.svg" />
