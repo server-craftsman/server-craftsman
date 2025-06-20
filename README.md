@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
-<img src="https://komarev.com/ghpvc/?username=server-craftsman&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=server-craftsman&color=blue" alt=""/>
   
   <h1>
     Hi there, I'm Huy IT
