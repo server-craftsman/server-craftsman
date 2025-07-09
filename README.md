@@ -12,7 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=server-craftsman&color=blue" alt=""/>
   
   <h1>
-    Hi there, I'm Huy IT
+    Hi there, I'm Nguyễn Đan Huy
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -24,7 +24,7 @@
 ---
 
 # 💫 About Me:
-<br>🔭 Hi, My name is Dan Huy. I'm a student at FPT University HCM.<br>🌱 I have hands-on experience in coding and developing applications using Node.js & Express, React, Flutter, and React Native.<br>
+<br>🔭 Hi, My name is Dan Huy. I'm a student at FPT University HCM.<br>🌱 I have hands-on experience in coding and developing applications using Node.js & Express, Nest.js, React.js, Next.js, Flutter, and React Native.<br>
 
 
 # :hammer_and_wrench: Tech Stack:
