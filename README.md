@@ -1,5 +1,6 @@
 <div id="header" align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW53cGVkbDcwMWc3dGVjcjdjdDZvNTNxNzNnbTFlc2JqN3QxOGk4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1KoXHp1VXUqCmVUUr/giphy.gif" alt="server-craftsman" width="100"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=570&width=600&lines=server-craftsman+%3A%3E+Hello+friend%2C+Hello+world" alt="Typing SVG" /></a>
+<!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW53cGVkbDcwMWc3dGVjcjdjdDZvNTNxNzNnbTFlc2JqN3QxOGk4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1KoXHp1VXUqCmVUUr/giphy.gif" alt="server-craftsman" width="100"/> -->
 <h3>⚡️Where to find me</h3>
   <div id="badges">
     <a href="https://www.linkedin.com/in/it-huy-a835b531a" target="_blank" rel="noreferrer">
@@ -24,7 +25,7 @@
 ---
 
 # 💫 About Me:
-<br>🔭 Hi, My name is Dan Huy. I'm a student at FPT University HCM.<br>🌱 I have hands-on experience in coding and developing applications using Node.js & Express, Nest.js, React.js, Next.js, Flutter, and React Native.<br>
+<br>🔭 Hi, My name is Dan Huy. I'm a student at FPT University HCM.<br>🌱 I have hands-on experience in coding and developing applications using Node.js & Express, Nest.js, Java, React.js, Next.js, Flutter, and React Native.<br>
 
 
 # :hammer_and_wrench: Tech Stack:
@@ -56,14 +57,10 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=server-craftsman&show_icons=true&locale=en" alt="server-craftsman" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=server-craftsman&show_icons=true&locale=en" alt="server-craftsman" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=server-craftsman&" alt="server-craftsman" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=server-craftsman&show_icons=true&locale=en&layout=compact" alt="server-craftsman" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=server-craftsman" alt="server-craftsman" /></a></p>
-
-
-# 🐍 Snake Game
-
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=server-craftsman" alt="server-craftsman" /></a></p> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/server-craftsman/server-craftsman/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/server-craftsman/server-craftsman/output/github-snake.svg" />
