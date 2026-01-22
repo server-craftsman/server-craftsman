@@ -24,11 +24,12 @@
 
 ---
 
-# 💫 About Me:
+# About Me
+
 <br>🔭 Hi, My name is Dan Huy. I'm a student at FPT University HCM.<br>🌱 I have hands-on experience in coding and developing applications using Node.js & Express, Nest.js, Java, React.js, Next.js, Flutter, and React Native.<br>
 
+# Tech Stack
 
-# :hammer_and_wrench: Tech Stack:
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
@@ -67,11 +68,27 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/server-craftsman/server-craftsman/output/github-snake.svg" />
 </picture>
 
-### ✍️ Quote
-> Code For Food
+# What I care about
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=server-craftsman&limit=5&theme=dark&combine_all_yearly_contributions=true)
+⚙️ Designing systems that are robust, scalable, and resilient.<br>
+🧼 Writing logic that is clear, concise, and easy for others to understand.<br>
+🚀 Optimizing every request because every millisecond counts.<br>
+
+But code is just the tool. My true focus is on solving real-world problems and delivering tangible value to users.
+
+#
+I don't write code just to look busy.<br>
+I don't over-engineer for the sake of complexity.<br>
+I don't settle for "good enough."<br>
+I **solve**.<br>
+
+I don't need to be a "ninja" or a "rockstar."<br>
+I strive to be a **craftsman**.<br>
+
+I want **reliability**, proven by uptime.<br>
+I want **trust**, earned through consistency.<br>
+Not just features. Not just commits.<br>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=server-craftsman&icon=3&color=12)](https://visitcount.itsvg.in)
