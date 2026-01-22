@@ -3,10 +3,10 @@
 <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW53cGVkbDcwMWc3dGVjcjdjdDZvNTNxNzNnbTFlc2JqN3QxOGk4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1KoXHp1VXUqCmVUUr/giphy.gif" alt="server-craftsman" width="100"/> -->
 <h3>⚡️Where to find me</h3>
   <div id="badges">
-    <a href="[https://www.linkedin.com/in/it-huy-a835b531a](https://www.linkedin.com/in/nguyen-%C4%91an-huy-a835b531a/)" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/nguyen-%C4%91an-huy-a835b531a" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="[https://www.facebook.com/danhuyspm](https://www.facebook.com/dan.huy.servercraftsman/)" target="_blank" rel="noreferrer">
+    <a href="https://www.facebook.com/dan.huy.servercraftsman" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
